@@ -3,7 +3,7 @@
 ## 🧑🏽‍💻Sobre mim:
 <div>
   <p>
-    Sou um desenvolvedor apaixonado por aprender, no meu tempo livre tento sempre me aprimorar, seja pela teoria ou por desenvolvimento de projetos. Alem de aprender, também gosto     de passar meus conhecimentos para outras pessoas, pois acredito que o conhecimento é um direito de todos
+    Sou um desenvolvedor apaixonado por aprender, no meu tempo livre tento sempre me aprimorar, seja pela teoria ou por desenvolvimento de projetos. Alem de aprender, também gosto     de passar meus conhecimentos para outras pessoas, pois acredito que o conhecimento é um direito de todos<br>
     Atualmente estou trabalhando na empresa Alta Soluções como estagiário na área de desenvolvimento
   </p>
 </div>
